@@ -3,6 +3,7 @@
 This project focuses on extracting meaningful insights from customer reviews of PureGym, a multinational gym chain. Reviews were collected from Trustpilot and Google to identify recurring negative feedback and support improvements in customer satisfaction. Techniques such as BERTopic, Gensim’s LDA, and Phi-4.0 were used for topic modeling, while emotion analysis helped to uncover emotional triggers. The ultimate goal was to generate actionable recommendations for improving service quality based on real user experiences.
 
 **Objective**
+
 The objective of this project was to:
 
  - Apply advanced natural language processing (NLP) and topic modeling techniques to identify and interpret recurring themes in customer complaints.
